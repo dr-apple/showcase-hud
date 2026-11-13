@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Unofficial Showcase build with head-up display mirroring and German.
-Date: Fri, 13 Nov 2026 16:32:20 UTC
+Date: Fri, 13 Nov 2026 17:31:00 UTC
 MD5Sum:
- ba38141cdc5bd4f9088c4baeb7382d6b 2562 Packages
- ed74954da42a8b0c1fbb72a8610447df 872 Packages.gz
- ebfd42efc0c7cfc34fe56d2910c63c1b 1049 Packages.bz2
+ 60fc9e5f15787608a08e56084846878c 2562 Packages
+ edd2dfa87fccbdab7fe7e4399b8c92e5 868 Packages.gz
+ 852befa8a632be6e8df90704e2377f7c 1049 Packages.bz2
 SHA1:
- 5bb4eafcb3f07c99787f55faafbf6f7841c2ea42 2562 Packages
- e7695cedf863b6cb0de6cc32ed08989b8ea841c5 872 Packages.gz
- 5c3321ff12012806bda6d4246bc8db4e1bab6d8b 1049 Packages.bz2
+ 2898bcf03efc06f87be1128cd408167ed4a25a70 2562 Packages
+ 2bf864eb8949c9801e62d059bd7ad78e29bef788 868 Packages.gz
+ 1417f36d66426ed89e53b93aa4bac7c49590afb5 1049 Packages.bz2
 SHA256:
- 817e0d6cee7248f77d2913bc07459094e21a0ba4c4aad2ef2fe93e4b1d617da5 2562 Packages
- 828d29db5d5f6f3ac0df391f09b30deac154bdac1af795b2afca25ba32c239ab 872 Packages.gz
- ae357ca7605b601efb407b1362fcee3dc2e6378455c807a3f6102ad502a2050e 1049 Packages.bz2
+ ea2f09d2ce213303661142e263d59f404ea1d60e031e281aa973f858fb5fd728 2562 Packages
+ a779f8822e5cb2cce0354190f8db4d10d6363dbddad2186855caf170a68508e3 868 Packages.gz
+ 5728c03d4d5c89bc0aee74c820f8595ea886fcef0a3c66e6bd0f2f7536dbb4b0 1049 Packages.bz2
