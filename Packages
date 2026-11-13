@@ -1,6 +1,6 @@
 Package: com.dr-apple.showcase-hud
 Name: Showcase-hud (Rootful)
-Version: 1.0~beta5-3+hud1
+Version: 1.0~beta5-3+hud2
 Architecture: iphoneos-arm
 Section: Utilities
 Maintainer: dr-apple <dr-apple@users.noreply.github.com>
@@ -8,24 +8,25 @@ Author: Amine Rostane <amine.rostane@outlook.com>
 Depends: firmware (>= 12.0), uikittools
 Conflicts: com.rostane.showcase, com.rostane.showcase-taurine, ch.ringwald.btstack
 Replaces: com.rostane.showcase, ch.ringwald.btstack (<= 1.1-1)
-Installed-Size: 2981
+Installed-Size: 3003
 Homepage: https://github.com/dr-apple/showcase-hud
 Icon: https://dr-apple.github.io/showcase-hud/icons/showcase.png
 Description: Unofficial Showcase build with head-up display mirroring and German.
  Showcase by Amine Rostane turns a jailbroken iPhone or iPad into a wireless
- CarPlay receiver. This build adds Mirror Horizontally / Mirror Vertically in
- Settings > Display (for a windshield head-up display) and a German
- translation. It replaces the official Showcase package. Source:
+ CarPlay receiver. This build adds a Head-Up Display page in Settings >
+ Display (mirroring, picture size and position for a windshield reflection),
+ a CarPlay Size setting and a German translation. It replaces the official
+ Showcase package. Source:
  https://github.com/dr-apple/showcase/tree/hud
-Filename: ./debs/com.dr-apple.showcase-hud_1.0~beta5-3+hud1_iphoneos-arm.deb
-Size: 1899638
-MD5sum: de03f303728dc3e947f8beb70a013add
-SHA1: 484efe2c24e8e96edb890814a616b6d8b686e764
-SHA256: c734f7883ccd6ddc14f0cea0759cec9e8fd8e998ee761d984d6d9c31cdddce23
+Filename: ./debs/com.dr-apple.showcase-hud_1.0~beta5-3+hud2_iphoneos-arm.deb
+Size: 1905978
+MD5sum: 496df45427e3171e1d886864c29a238f
+SHA1: c3a740bbae5dc8229d9393767502dcc8725c77eb
+SHA256: 0cd3cfb87df851518d6705844a89836eedc4f223803c3bb7480e57b9eb94ff7f
 
 Package: com.dr-apple.showcase-hud
 Name: Showcase-hud (Rootless)
-Version: 1.0~beta5-3+hud1
+Version: 1.0~beta5-3+hud2
 Architecture: iphoneos-arm64
 Section: Utilities
 Maintainer: dr-apple <dr-apple@users.noreply.github.com>
@@ -33,17 +34,18 @@ Author: Amine Rostane <amine.rostane@outlook.com>
 Depends: firmware (>= 12.0), uikittools, ldid
 Conflicts: com.rostane.showcase, com.rostane.showcase-taurine, ch.ringwald.btstack
 Replaces: com.rostane.showcase, ch.ringwald.btstack (<= 1.1-1)
-Installed-Size: 2753
+Installed-Size: 2759
 Homepage: https://github.com/dr-apple/showcase-hud
 Icon: https://dr-apple.github.io/showcase-hud/icons/showcase.png
 Description: Unofficial Showcase build with head-up display mirroring and German.
  Showcase by Amine Rostane turns a jailbroken iPhone or iPad into a wireless
- CarPlay receiver. This build adds Mirror Horizontally / Mirror Vertically in
- Settings > Display (for a windshield head-up display) and a German
- translation. It replaces the official Showcase package. Source:
+ CarPlay receiver. This build adds a Head-Up Display page in Settings >
+ Display (mirroring, picture size and position for a windshield reflection),
+ a CarPlay Size setting and a German translation. It replaces the official
+ Showcase package. Source:
  https://github.com/dr-apple/showcase/tree/hud
-Filename: ./debs/com.dr-apple.showcase-hud_1.0~beta5-3+hud1_iphoneos-arm64.deb
-Size: 1832464
-MD5sum: 96ccd1d2e82e4c9f472225c1d957240c
-SHA1: 67fe39c404c38e22293843821c7f8e60d1cbeb1d
-SHA256: 9225a6633ddd025498bc8a591b03b3100dd82d0719c725461e378a614310f383
+Filename: ./debs/com.dr-apple.showcase-hud_1.0~beta5-3+hud2_iphoneos-arm64.deb
+Size: 1837726
+MD5sum: 74e87ca711a0f37820c742eac991850d
+SHA1: 60d20fcb7161ca0ea9169fea312d504076cbf440
+SHA256: 032cb1981cc179da7fe57554f936b6700ff909bde5f9205846e518b6c99ac9f4
