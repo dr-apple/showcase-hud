@@ -1,0 +1,49 @@
+Package: com.dr-apple.showcase-hud
+Name: Showcase-hud (Rootful)
+Version: 1.0~beta5-3+hud1
+Architecture: iphoneos-arm
+Section: Utilities
+Maintainer: dr-apple <dr-apple@users.noreply.github.com>
+Author: Amine Rostane <amine.rostane@outlook.com>
+Depends: firmware (>= 12.0), uikittools
+Conflicts: com.rostane.showcase, com.rostane.showcase-taurine, ch.ringwald.btstack
+Replaces: com.rostane.showcase, ch.ringwald.btstack (<= 1.1-1)
+Installed-Size: 2981
+Homepage: https://github.com/dr-apple/showcase-hud
+Icon: https://dr-apple.github.io/showcase-hud/icons/showcase.png
+Description: Unofficial Showcase build with head-up display mirroring and German.
+ Showcase by Amine Rostane turns a jailbroken iPhone or iPad into a wireless
+ CarPlay receiver. This build adds Mirror Horizontally / Mirror Vertically in
+ Settings > Display (for a windshield head-up display) and a German
+ translation. It replaces the official Showcase package. Source:
+ https://github.com/dr-apple/showcase/tree/hud
+Filename: ./debs/com.dr-apple.showcase-hud_1.0~beta5-3+hud1_iphoneos-arm.deb
+Size: 1899638
+MD5sum: de03f303728dc3e947f8beb70a013add
+SHA1: 484efe2c24e8e96edb890814a616b6d8b686e764
+SHA256: c734f7883ccd6ddc14f0cea0759cec9e8fd8e998ee761d984d6d9c31cdddce23
+
+Package: com.dr-apple.showcase-hud
+Name: Showcase-hud (Rootless)
+Version: 1.0~beta5-3+hud1
+Architecture: iphoneos-arm64
+Section: Utilities
+Maintainer: dr-apple <dr-apple@users.noreply.github.com>
+Author: Amine Rostane <amine.rostane@outlook.com>
+Depends: firmware (>= 12.0), uikittools, ldid
+Conflicts: com.rostane.showcase, com.rostane.showcase-taurine, ch.ringwald.btstack
+Replaces: com.rostane.showcase, ch.ringwald.btstack (<= 1.1-1)
+Installed-Size: 2753
+Homepage: https://github.com/dr-apple/showcase-hud
+Icon: https://dr-apple.github.io/showcase-hud/icons/showcase.png
+Description: Unofficial Showcase build with head-up display mirroring and German.
+ Showcase by Amine Rostane turns a jailbroken iPhone or iPad into a wireless
+ CarPlay receiver. This build adds Mirror Horizontally / Mirror Vertically in
+ Settings > Display (for a windshield head-up display) and a German
+ translation. It replaces the official Showcase package. Source:
+ https://github.com/dr-apple/showcase/tree/hud
+Filename: ./debs/com.dr-apple.showcase-hud_1.0~beta5-3+hud1_iphoneos-arm64.deb
+Size: 1832464
+MD5sum: 96ccd1d2e82e4c9f472225c1d957240c
+SHA1: 67fe39c404c38e22293843821c7f8e60d1cbeb1d
+SHA256: 9225a6633ddd025498bc8a591b03b3100dd82d0719c725461e378a614310f383

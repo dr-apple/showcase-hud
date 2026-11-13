@@ -1,0 +1,21 @@
+Origin: Showcase-hud
+Label: Showcase-hud
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Unofficial Showcase build with head-up display mirroring and German.
+Date: Fri, 13 Nov 2026 16:17:23 UTC
+MD5Sum:
+ 1af11bbb74c440024a9ee93c8162790f 2482 Packages
+ f5de361972bf26799db02523e9d36ba0 846 Packages.gz
+ fb47cbe7ae541459a1a9cf3057d100e7 1016 Packages.bz2
+SHA1:
+ f33f1332be73d5a9a620eddff89e2e685056d9e3 2482 Packages
+ 8fae4007de50a30ae49bd00b4e09dfc23e639cac 846 Packages.gz
+ d5244fea94a18522ccd0dcfbc57b2509310db3f4 1016 Packages.bz2
+SHA256:
+ 479430849239378c5bf60fb32acefcdb1ff0e4e07e0ec5a220f5471be38ae827 2482 Packages
+ fc881a5cc9d6152acc6104c233399bea5b6a3c3f515d24d56460cea58217b78e 846 Packages.gz
+ 8fbaa0d4740d8fa6cabb53259940c0845bfae702e85b0b91be5f4369ef3fc004 1016 Packages.bz2
